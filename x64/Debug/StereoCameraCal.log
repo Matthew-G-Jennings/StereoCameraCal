@@ -1,0 +1,12 @@
+﻿  stereoCam.cpp
+C:\Users\jenni\source\repos\StereoCameraCal\StereoCameraCal\stereoCam.cpp(25,65): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\jenni\source\repos\StereoCameraCal\StereoCameraCal\stereoCam.cpp(25,57): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  StereoCameraCal.vcxproj -> C:\Users\jenni\source\repos\StereoCameraCal\x64\Debug\StereoCameraCal.exe
